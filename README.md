@@ -1,4 +1,4 @@
-# React-Todo-list
+# React-Todo-list (Clone)
 
 This is a React To do list app developed by me to learn and enhance my react skills.
 
